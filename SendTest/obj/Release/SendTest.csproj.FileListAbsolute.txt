@@ -1,0 +1,15 @@
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\SendTest\SendTest\bin\Release\SendTest.exe.config
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\SendTest\SendTest\bin\Release\SendTest.exe
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\SendTest\SendTest\bin\Release\SendTest.pdb
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\SendTest\SendTest\bin\Release\CoolSms.dll
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\SendTest\SendTest\bin\Release\Newtonsoft.Json.dll
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\SendTest\SendTest\bin\Release\Newtonsoft.Json.xml
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\SendTest\SendTest\obj\Release\SendTest.csproj.AssemblyReference.cache
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\SendTest\SendTest\obj\Release\SendTest.Form1.resources
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\SendTest\SendTest\obj\Release\SendTest.Info.resources
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\SendTest\SendTest\obj\Release\SendTest.Properties.Resources.resources
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\SendTest\SendTest\obj\Release\SendTest.csproj.GenerateResource.cache
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\SendTest\SendTest\obj\Release\SendTest.csproj.CoreCompileInputs.cache
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\SendTest\SendTest\obj\Release\SendTest.csproj.Up2Date
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\SendTest\SendTest\obj\Release\SendTest.exe
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\SendTest\SendTest\obj\Release\SendTest.pdb
