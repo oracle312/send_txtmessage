@@ -151,7 +151,7 @@ namespace SendTest
                 if (MessageBox.Show("현재 최신버전이 아닙니다. \n" + "현재버전 : " + lbl_version.Text + "\n최신버전 : " + readText +
                     "\n최신버전을 다운로드 하시겠습니까 ?", "업데이트", MessageBoxButtons.YesNo) == DialogResult.Yes)
                 {
-                    String url = "http://oracle312.dothome.co.kr/UPDATE.7z";
+                    String url = "";
 
                     string content;
                     using (HttpClient clients = new HttpClient())
