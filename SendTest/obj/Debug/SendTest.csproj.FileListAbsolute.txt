@@ -29,3 +29,19 @@ C:\Users\USER\Desktop\siyul\SendTest\SendTest\obj\Debug\SendTest.csproj.Up2Date
 C:\Users\USER\Desktop\siyul\SendTest\SendTest\obj\Debug\SendTest.exe
 C:\Users\USER\Desktop\siyul\SendTest\SendTest\obj\Debug\SendTest.pdb
 C:\Users\USER\Desktop\siyul\SendTest\SendTest\obj\Debug\SendTest.Setting.resources
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\경로추가\SendTest\obj\Debug\SendTest.csproj.AssemblyReference.cache
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\경로추가\SendTest\obj\Debug\SendTest.Form1.resources
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\경로추가\SendTest\obj\Debug\SendTest.Info.resources
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\경로추가\SendTest\obj\Debug\SendTest.Properties.Resources.resources
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\경로추가\SendTest\obj\Debug\SendTest.Setting.resources
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\경로추가\SendTest\obj\Debug\SendTest.csproj.GenerateResource.cache
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\경로추가\SendTest\obj\Debug\SendTest.csproj.CoreCompileInputs.cache
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\경로추가\SendTest\obj\Debug\SendTest.exe
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\경로추가\SendTest\obj\Debug\SendTest.pdb
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\경로추가\SendTest\bin\Debug\SendTest.exe.config
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\경로추가\SendTest\bin\Debug\SendTest.exe
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\경로추가\SendTest\bin\Debug\SendTest.pdb
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\경로추가\SendTest\bin\Debug\CoolSms.dll
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\경로추가\SendTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\경로추가\SendTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hodu3\OneDrive\바탕 화면\myGit\경로추가\SendTest\obj\Debug\SendTest.csproj.Up2Date

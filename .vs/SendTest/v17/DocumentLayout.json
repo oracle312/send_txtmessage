@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\siyul\\SendTest\\",
+  "WorkspaceRootPath": "C:\\Users\\hodu3\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\myGit\\\uACBD\uB85C\uCD94\uAC00\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2FFEB64C-CB03-41C8-A4E8-2D5A3A451A9D}|SendTest\\SendTest.csproj|c:\\users\\user\\desktop\\siyul\\sendtest\\sendtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2FFEB64C-CB03-41C8-A4E8-2D5A3A451A9D}|SendTest\\SendTest.csproj|c:\\users\\hodu3\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\mygit\\\uACBD\uB85C\uCD94\uAC00\\sendtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FFEB64C-CB03-41C8-A4E8-2D5A3A451A9D}|SendTest\\SendTest.csproj|solutionrelative:sendtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FFEB64C-CB03-41C8-A4E8-2D5A3A451A9D}|SendTest\\SendTest.csproj|C:\\Users\\USER\\Desktop\\siyul\\SendTest\\sendtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2FFEB64C-CB03-41C8-A4E8-2D5A3A451A9D}|SendTest\\SendTest.csproj|C:\\Users\\hodu3\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\myGit\\\uACBD\uB85C\uCD94\uAC00\\sendtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2FFEB64C-CB03-41C8-A4E8-2D5A3A451A9D}|SendTest\\SendTest.csproj|solutionrelative:sendtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FFEB64C-CB03-41C8-A4E8-2D5A3A451A9D}|SendTest\\SendTest.csproj|C:\\Users\\USER\\Desktop\\siyul\\SendTest\\sendtest\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2FFEB64C-CB03-41C8-A4E8-2D5A3A451A9D}|SendTest\\SendTest.csproj|C:\\Users\\hodu3\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\myGit\\\uACBD\uB85C\uCD94\uAC00\\sendtest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFEB64C-CB03-41C8-A4E8-2D5A3A451A9D}|SendTest\\SendTest.csproj|solutionrelative:sendtest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFEB64C-CB03-41C8-A4E8-2D5A3A451A9D}|SendTest\\SendTest.csproj|C:\\Users\\hodu3\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\myGit\\\uACBD\uB85C\uCD94\uAC00\\sendtest\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FFEB64C-CB03-41C8-A4E8-2D5A3A451A9D}|SendTest\\SendTest.csproj|solutionrelative:sendtest\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFEB64C-CB03-41C8-A4E8-2D5A3A451A9D}|SendTest\\SendTest.csproj|C:\\Users\\hodu3\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\myGit\\\uACBD\uB85C\uCD94\uAC00\\sendtest\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FFEB64C-CB03-41C8-A4E8-2D5A3A451A9D}|SendTest\\SendTest.csproj|solutionrelative:sendtest\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FFEB64C-CB03-41C8-A4E8-2D5A3A451A9D}|SendTest\\SendTest.csproj|C:\\Users\\USER\\Desktop\\siyul\\SendTest\\sendtest\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2FFEB64C-CB03-41C8-A4E8-2D5A3A451A9D}|SendTest\\SendTest.csproj|C:\\Users\\hodu3\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\myGit\\\uACBD\uB85C\uCD94\uAC00\\sendtest\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2FFEB64C-CB03-41C8-A4E8-2D5A3A451A9D}|SendTest\\SendTest.csproj|solutionrelative:sendtest\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FFEB64C-CB03-41C8-A4E8-2D5A3A451A9D}|SendTest\\SendTest.csproj|C:\\Users\\USER\\Desktop\\siyul\\SendTest\\sendtest\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2FFEB64C-CB03-41C8-A4E8-2D5A3A451A9D}|SendTest\\SendTest.csproj|solutionrelative:sendtest\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +34,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hodu3\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\myGit\\\uACBD\uB85C\uCD94\uAC00\\SendTest\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SendTest\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\hodu3\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\myGit\\\uACBD\uB85C\uCD94\uAC00\\SendTest\\Form1.Designer.cs",
+              "RelativeToolTip": "SendTest\\Form1.Designer.cs",
+              "ViewState": "AQIAAAUCAAAAAAAAAAAjwBACAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:30:08.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Setting.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\siyul\\SendTest\\SendTest\\Setting.cs",
+              "DocumentMoniker": "C:\\Users\\hodu3\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\myGit\\\uACBD\uB85C\uCD94\uAC00\\SendTest\\Setting.cs",
               "RelativeDocumentMoniker": "SendTest\\Setting.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\siyul\\SendTest\\SendTest\\Setting.cs",
+              "ToolTip": "C:\\Users\\hodu3\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\myGit\\\uACBD\uB85C\uCD94\uAC00\\SendTest\\Setting.cs",
               "RelativeToolTip": "SendTest\\Setting.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAewBMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -46,22 +63,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Setting.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\siyul\\SendTest\\SendTest\\Setting.cs",
+              "DocumentMoniker": "C:\\Users\\hodu3\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\myGit\\\uACBD\uB85C\uCD94\uAC00\\SendTest\\Setting.cs",
               "RelativeDocumentMoniker": "SendTest\\Setting.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\siyul\\SendTest\\SendTest\\Setting.cs [\uB514\uC790\uC778]",
+              "ToolTip": "C:\\Users\\hodu3\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\myGit\\\uACBD\uB85C\uCD94\uAC00\\SendTest\\Setting.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "SendTest\\Setting.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-18T03:29:53.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Info.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\siyul\\SendTest\\SendTest\\Info.cs",
+              "DocumentMoniker": "C:\\Users\\hodu3\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\myGit\\\uACBD\uB85C\uCD94\uAC00\\SendTest\\Info.cs",
               "RelativeDocumentMoniker": "SendTest\\Info.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\siyul\\SendTest\\SendTest\\Info.cs [\uB514\uC790\uC778]",
+              "ToolTip": "C:\\Users\\hodu3\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\myGit\\\uACBD\uB85C\uCD94\uAC00\\SendTest\\Info.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "SendTest\\Info.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T11:17:59.458Z"
@@ -70,11 +87,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\siyul\\SendTest\\SendTest\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hodu3\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\myGit\\\uACBD\uB85C\uCD94\uAC00\\SendTest\\Form1.cs",
               "RelativeDocumentMoniker": "SendTest\\Form1.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\siyul\\SendTest\\SendTest\\Form1.cs",
+              "ToolTip": "C:\\Users\\hodu3\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\myGit\\\uACBD\uB85C\uCD94\uAC00\\SendTest\\Form1.cs",
               "RelativeToolTip": "SendTest\\Form1.cs",
-              "ViewState": "AQIAAHYAAAAAAAAAAAAkwMQAAAA0AAAA",
+              "ViewState": "AQIAAPUAAAAAAAAAAAAjwP0AAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T11:04:12.301Z",
               "EditorCaption": ""
@@ -83,12 +100,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\siyul\\SendTest\\SendTest\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hodu3\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\myGit\\\uACBD\uB85C\uCD94\uAC00\\SendTest\\Form1.cs",
               "RelativeDocumentMoniker": "SendTest\\Form1.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\siyul\\SendTest\\SendTest\\Form1.cs [\uB514\uC790\uC778]",
+              "ToolTip": "C:\\Users\\hodu3\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\myGit\\\uACBD\uB85C\uCD94\uAC00\\SendTest\\Form1.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "SendTest\\Form1.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T09:44:27.68Z"
+              "WhenOpened": "2024-07-17T09:44:27.68Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
             }
           ]
         }
