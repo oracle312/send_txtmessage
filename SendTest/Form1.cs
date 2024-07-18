@@ -26,9 +26,9 @@ namespace SendTest
 
         SmsApi api = new SmsApi(new SmsApiOptions
         {
-            ApiKey = "NCSHZCNBPOXY1DLR",
-            ApiSecret = "KTSPOONTARPOPU2MQYCDBZUQUXWHW3J8",
-            DefaultSenderId = "01034717524"
+            ApiKey = "",
+            ApiSecret = "",
+            DefaultSenderId = ""
         });
         /*private string _location;
         public string location
@@ -142,7 +142,7 @@ namespace SendTest
         private void btn_version_Click(object sender, EventArgs e)
         {
             WebClient client = new WebClient();
-            Stream stream = client.OpenRead("http://oracle312.dothome.co.kr/version.txt");
+            Stream stream = client.OpenRead("");
             StreamReader reader = new StreamReader(stream);
             string readText = reader.ReadToEnd();
             
@@ -169,7 +169,7 @@ namespace SendTest
                 if (MessageBox.Show("현재 최신버전 입니다. \n" + "현재버전 : " + lbl_version.Text + "\n최신버전 : " + readText +
                     "\n그래도 새로 다운로드 하시겠습니까 ?", "업데이트", MessageBoxButtons.YesNo) == DialogResult.Yes)
                 {
-                    String url = "http://oracle312.dothome.co.kr/UPDATE.7z";
+                    String url = "";
 
                     string content;
                     using (HttpClient clients = new HttpClient())
